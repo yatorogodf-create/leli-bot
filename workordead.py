@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 
 # Сюда мы вставим длинный токен от @BotFather
-TOKEN = "8790694389:AAGGlE3YfJyI4_aqzibDqZVLUTAw9zl7AIQpython"
+TOKEN = "8790694389:AAGGlE3YfJyI4_aqzibDqZVLUTAw9zl7AIQ"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
